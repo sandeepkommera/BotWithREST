@@ -1,0 +1,9 @@
+{
+    "MicrsoftAppID" : "4e879e69-886c-45fd-8fc6-bb49d2cefd70",
+    "MicrosoftAppPassword" : "prIQREQ6626bgqruFZ0}~;(",
+    "BotValidationURL" : "https://api.botframework.com",
+    "AuthHeaderURL" : "https://login.microsoftonline.com/botframework.com/oauth2/v2.0/token",
+    "ScopeURL" : "https://api.botframework.com/.default",
+    "OpenIdDocUrl" : "https://login.botframework.com/v1/.well-known/openidconfiguration"
+}
+

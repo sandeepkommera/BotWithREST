@@ -1,0 +1,22 @@
+{
+  "name": "firstnodejsbot",
+  "version": "1.0.0",
+  "description": "My first NodeJs bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "express": "^4.16.2",
+    "http-proxy": "^1.16.2",
+    "jwt-decode": "^2.2.0",
+    "method-override": "*",
+    "restify": "^6.3.4"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.2"
+  }
+}
